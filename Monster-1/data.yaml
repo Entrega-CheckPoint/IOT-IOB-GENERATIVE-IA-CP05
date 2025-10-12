@@ -1,0 +1,12 @@
+names:
+- '--------355ML'
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: monster-bn5fz-nuvug
+  url: https://universe.roboflow.com/myfiap-ut6gb/monster-bn5fz-nuvug/dataset/1
+  version: 1
+  workspace: myfiap-ut6gb
+test: ../test/images
+train: ../train/images
+val: ../valid/images
